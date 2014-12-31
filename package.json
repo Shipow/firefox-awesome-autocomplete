@@ -1,11 +1,11 @@
 {
-  "name": "firefox-awesome-autocomplete",
-  "title": "firefox-awesome-autocomplete",
+  "name": "github-awesome-autocomplete",
+  "title": "Github Awesome Autocomplete",
   "id": "jid1-pmiKTA3AqRsLCw",
-  "description": "a basic add-on",
+  "description": "Add instant search capability on GitHub.",
   "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1",
+  "license": "MIT",
+  "version": "0.2",
   "permissions": {
     "cross-domain-content": ["https://*.algolia.net/"]
   }

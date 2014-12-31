@@ -5,7 +5,6 @@
   var NB_USERS = 3;
   var NB_ISSUES = 3;
 
-
   function saveStorage(key,value) {
     self.port.emit('update-storage', [key,value]);
   };
